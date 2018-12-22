@@ -1,0 +1,69 @@
+
+/* Class = "UILabel"; text = "str_version_number"; ObjectID = "5PZ-uU-T8E"; */
+"5PZ-uU-T8E.text" = "str_version_number";
+
+/* Class = "UILabel"; text = "str_launch"; ObjectID = "7Mq-NA-5Yb"; */
+"7Mq-NA-5Yb.text" = "str_launch";
+
+/* Class = "UITabBarItem"; title = "GPS"; ObjectID = "CW5-9p-586"; */
+"CW5-9p-586.title" = "GPS";
+
+/* Class = "UILabel"; text = "or"; ObjectID = "GaH-XG-T9I"; */
+"GaH-XG-T9I.text" = "or";
+
+/* Class = "UINavigationItem"; title = "Locations"; ObjectID = "HgU-Fv-wHT"; */
+"HgU-Fv-wHT.title" = "Locations";
+
+/* Class = "UILabel"; text = "Country"; ObjectID = "Jfd-LQ-Yom"; */
+"Jfd-LQ-Yom.text" = "Country";
+
+/* Class = "UIBarButtonItem"; title = "About"; ObjectID = "Rub-9L-t1j"; */
+"Rub-9L-t1j.title" = "About";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "SKf-rJ-SKT"; */
+"SKf-rJ-SKT.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "888"; ObjectID = "UfO-pE-tnB"; */
+"UfO-pE-tnB.text" = "888";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "X1Q-kR-9Fo"; */
+"X1Q-kR-9Fo.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Use Your Location"; ObjectID = "Xpi-XN-3P9"; */
+"Xpi-XN-3P9.normalTitle" = "Use Your Location";
+
+/* Class = "UIButton"; normalTitle = "Dismiss"; ObjectID = "agw-Vm-5tp"; */
+"agw-Vm-5tp.normalTitle" = "Dismiss";
+
+/* Class = "UITabBarItem"; title = "Wikipedia"; ObjectID = "aoB-c9-11w"; */
+"aoB-c9-11w.title" = "Wikipedia";
+
+/* Class = "UILabel"; text = "Choose a Photo"; ObjectID = "bef-5M-vtp"; */
+"bef-5M-vtp.text" = "Choose a Photo";
+
+/* Class = "UILabel"; text = "str_date"; ObjectID = "bzo-9h-C2G"; */
+"bzo-9h-C2G.text" = "str_date";
+
+/* Class = "UILabel"; text = "str_name"; ObjectID = "cOb-8c-UcU"; */
+"cOb-8c-UcU.text" = "str_name";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "duj-r5-B1l"; */
+"duj-r5-B1l.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Street (Optional)"; ObjectID = "g7S-Zx-Taa"; */
+"g7S-Zx-Taa.text" = "Street (Optional)";
+
+/* Class = "UILabel"; text = "City"; ObjectID = "hIw-oC-8As"; */
+"hIw-oC-8As.text" = "City";
+
+/* Class = "UITabBarItem"; title = "Memory"; ObjectID = "kZh-Dh-HGu"; */
+"kZh-Dh-HGu.title" = "Memory";
+
+/* Class = "UILabel"; text = "str_location"; ObjectID = "nem-ge-s5t"; */
+"nem-ge-s5t.text" = "str_location";
+
+/* Class = "UILabel"; text = "str_copyright"; ObjectID = "qVu-7S-GNo"; */
+"qVu-7S-GNo.text" = "str_copyright";
+
+/* Class = "UIButton"; normalTitle = "Get Coordinates"; ObjectID = "qoX-ed-HIX"; */
+"qoX-ed-HIX.normalTitle" = "Get Coordinates";

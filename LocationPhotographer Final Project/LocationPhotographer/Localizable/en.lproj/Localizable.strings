@@ -1,0 +1,30 @@
+/*
+ Localizable.strings
+ Project #3
+ 
+ Created by Adeel Qayum on 11/23/18.
+ Copyright © 2018 Adeel Qayum. All rights reserved.
+ */
+
+"str_alertmessage"          = "Please enter a location";
+"str_alertremove"           = "Are you sure you want to remove the location?";
+"str_alert"                 = "Alert";
+"str_title"                 = "Title";
+"str_save"                  = "Save";
+"str_cancel"                = "Cancel";
+"str_done"                  = "Done";
+"str_gps"                   = "GPS Coordinates";
+"str_warning"               = "Warning";
+"str_noCamera"              = "No Camera Detected";
+"str_ok"                    = "Ok";
+"str_yes"                   = "Yes";
+"str_addressmessage"        = "Please enter the address of the location";
+"str_location"              = "Location";
+"str_getcoordinates"        = "Get Coordinates!";
+"str_chooseaphoto"          = "Choose a photo";
+"str_country"               = "Country";
+"str_city"                  = "City";
+"str_street"                = "Street (Optional)";
+"str_or"                    = "or";
+"str_locationalert"         = "Coordinates";
+
